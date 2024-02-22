@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hrguarinv, PhD in Computer Science in the Department of Informatics at Pontifical Catholic University of Rio de Janeiro (PUC-Rio). 
-- 👀 I’m interested in solving problems of software industry and helping people by using technology. 
-- 🌱 I’m a practitioner of software engineering and machine learning 
-- 💞️ I’m looking to collaborate on software projects involving the topics above
+- 👋 Hi, I’m @hrguarinv, PhD in Computer Science in the Department of Informatics at Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
+- 💞️ I love solving real-world problems with code, data, and technology
+- 👀 I’m mainly interested in software engineering and artificial intelligence / machine learning engineering  
+- 🌱 I’m assistant professor of data science and analytics   
 - 📫 Feel free to contact me at hvillamizar@inf.puc-rio.br 
 
 <!---
